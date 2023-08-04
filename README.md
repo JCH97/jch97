@@ -1,17 +1,17 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is José Carlos Hernández Piñera 👨🏻‍💻 and I'm from Cuba <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is José Carlos Hernández 👨🏻‍💻 and I'm from Cuba <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
 </h1>
 
 <h4 align="center">
-  <p>I'm Bachelor of Computer Science, Software Engineer at <a href="https://multicuba.com">@MultiCuba</a>, love programming contest and <code>#opensource</code> enthusiast</p>
+  <p>I'm Bachelor of Computer Science, Team Leader at <a href="https://multicuba.com">@MultiCuba</a>, love programming contest and <code>#opensource</code> enthusiast</p>
 </h4>
 
 <h3 align="center">
-  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> me llamo José Carlos Hernández Piñera 👨🏻‍💻 y soy de Cuba <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="13" />
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> me llamo José Carlos Hernández 👨🏻‍💻 y soy de Cuba <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="13" />
 </h3>
 
 <h5 align="center">
-  <p>Soy Licenciado en Ciencia de la Computación, Ingeniero de Software en <a href="https://multicuba.com">@MultiCuba</a>, amo la programación competitiva y entusiasta del <code>#opensource</code></p>
+  <p>Soy Licenciado en Ciencia de la Computación, Líder de equipo en <a href="https://multicuba.com">@MultiCuba</a>, amo la programación competitiva y entusiasta del <code>#opensource</code></p>
 </h5>
 
 <p align="center">
