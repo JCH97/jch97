@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  <p>I'm Bachelor of Computer Science, Team Leader at <a href="https://multicuba.com">@MultiCuba</a>, love programming contest and <code>#opensource</code> enthusiast</p>
+  <p>I'm Bachelor of Computer Science, Co-Founder and CTO at <a href="https://dara-services.com">@Dara's Services</a>, love programming contest and <code>#opensource</code> enthusiast</p>
 </h4>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <h5 align="center">
-  <p>Soy Licenciado en Ciencia de la Computación, Líder de equipo en <a href="https://multicuba.com">@MultiCuba</a>, amo la programación competitiva y entusiasta del <code>#opensource</code></p>
+  <p>Soy Licenciado en Ciencia de la Computación, Co-Fundador y CTO en <a href="https://dara-services.com">@Dara's Services</a>, amo la programación competitiva y entusiasta del <code>#opensource</code></p>
 </h5>
 
 <p align="center">
